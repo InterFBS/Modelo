@@ -1,3 +1,3 @@
-const teste = prompt('Teste')
+/*const teste = prompt('Teste')
 
-teste();
+teste();*/
